@@ -20,3 +20,7 @@ Working like an AI agent, meaning it can plan steps, use tools, and complete tas
 4)Name any two developer tools introduced with Gemini 3.0.
 1.Gemini CLI: A command-line interface that lets developers access Gemini 3 Pro directly in the terminal — generating code, running shell commands, fixing bugs via natural-language prompts.
 2.Google Antigravity: An “agent-first” integrated development environment (IDE) built for Gemini 3 that allows AI agents to operate in editor, terminal and browser, making development more autonomous.
+
+
+<img width="1920" height="1080" alt="gemini3" src="https://github.com/user-attachments/assets/9193f433-8217-4ec7-9ab0-7ca19dc20aaa" />
+
